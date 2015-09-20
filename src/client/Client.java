@@ -1,7 +1,7 @@
 package client;
 /*
  * 2013
- * Author : Archie Gunasekara
+ * Author : Achintha Gunasekara
  */
 
 import java.io.IOException;
