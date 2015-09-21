@@ -1,6 +1,6 @@
 /*
  * 2013
- * Author : Archie Gunasekara
+ * Author : Achintha Gunasekara
  */
 
 package game;
