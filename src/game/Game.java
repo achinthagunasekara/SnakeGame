@@ -1,6 +1,6 @@
 /*
- * 2013
- * Author : Achintha Gunasekara
+ * @date: 2013
+ * @author: Achintha Gunasekara
  */
 
 package game;
